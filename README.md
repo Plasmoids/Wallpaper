@@ -1,2 +1,1 @@
-# Wallpaper
-How wallpapers work.
+**Read it [Here](https://plasmoids.github.io/Wallpaper/)**
